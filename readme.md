@@ -11,7 +11,7 @@ You might also have seen me from the **osu!** and **tetr.io** communities!
 - **Databases:**  MySQL, PostgreSQL
 - **Tools & Platforms:**  Visual Studio Code, Google Colab, Google Sheets, Microsoft Excel
 - **Data Visualization:**  Tableau, Power BI, Looker Studio
-- **Other Skills:**  Exploratory Data Analysis, Data Cleaning, Data Wrangling, 
+- **Other Skills:**  Exploratory Data Analysis, Data Cleaning, Data Wrangling
 
 ---
 
