@@ -1,36 +1,23 @@
 # 👋 Hello there, it's jimmyreturnz.
-- 2nd-year student at **Mahidol University**  (Industrial Mathematics and Data Science)
-- Passionate  **Forex Trader** with 2+ years of real experience 
-- Learning **Data Science** and **Mathematics**
-- You might also have seen me on osu! and tetr.io community
-### Don't just dream, acts now or regret later.
+2nd-year student at **Mahidol University**, majoring in **Industrial Mathematics and Data Science**. \
+I'm a passionate **Forex Trader** with over 2 years of real experience in the financial markets. \
+Currently deepening my knowledge in Data Science / Data Analysis. \
+You might also have seen me from the **osu!** and **tetr.io** communities!
 
+## 🛠️ - Data Science & Technical Skills
 
-
-
-## 💼 Past Projects
-
-### 🧮 Online Course Platform (SQL-Based)  
-> A PostgreSQL database for a custom online course platform
-- Tracks users, courses, lessons, quiz attempts, and certificates  
-- Built to demonstrate SQL query and schema design  
-
-### 🎵 Chunithm Arcade Simulation  
-> Simulates 4-cabinet arcade sessions with automatic player handling  
-- Modeled using queueing and discrete-event simulation  
-- Calculate the expected earning per hours of the machine based on given conditions
-
----
-
-## 🛠️ Tech Stack
-
-`Python` `SQL (PostgreSQL)` `Pandas` `Google Sheets` `Excel`
+- **Languages:** Python, R, SQL
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, sklearn
+- **Databases:**  MySQL, PostgreSQL
+- **Tools & Platforms:**  Visual Studio Code, Google Colab, Google Sheets, Microsoft Excel
+- **Data Visualization:**  Tableau, Power BI, Looker Studio
+- **Other Skills:**  Exploratory Data Analysis, Data Cleaning, Data Wrangling, 
 
 ---
 
 ## 📬 Contact Me
 
-- 📧 [jimmyreturnzosu@gmail.com](mailto:jimmyreturnzosu@gmail.com)
+- 📧 [Email](mailto:jimmyreturnzosu@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/apiwat-kongsawat-a57805227/)
 
 ---
