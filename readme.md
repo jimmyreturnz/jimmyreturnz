@@ -18,7 +18,7 @@ You might also have seen me from the **osu!** and **tetr.io** communities!
 
 ## 📬 Contact Me
 
-- 📧 [Email](mailto:jimmyreturnzosu@gmail.com)
+- 📧 [Email](mailto:apiwatkon.rtz@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/apiwat-kongsawat-a57805227/)
 
 ---
