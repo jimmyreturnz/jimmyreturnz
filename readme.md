@@ -1,5 +1,5 @@
 # 👋 Hello there, it's jimmyreturnz.
-2nd-year student at **Mahidol University**, majoring in **Industrial Mathematics and Data Science**. \
+3rd-year student at **Mahidol University**, majoring in **Industrial Mathematics and Data Science**. \
 I'm a passionate **Forex Trader** with over 2 years of real experience in the financial markets. \
 Currently deepening my knowledge in Data Science / Data Analysis. \
 You might also have seen me from the **osu!** and **tetr.io** communities!
