@@ -22,5 +22,3 @@ You might also have seen me from the **osu!** and **tetr.io** communities!
 - 💼 [LinkedIn](https://www.linkedin.com/in/apiwat-kongsawat-a57805227/)
 
 ---
-
-![Jimmy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmyreturnz&show_icons=true&theme=tokyonight)
