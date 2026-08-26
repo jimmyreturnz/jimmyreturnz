@@ -7,7 +7,7 @@ Currently Interning at BMW Parts Manufacturing as a Data Scientist \
 I'm a passionate **Data Scientist** that loves transforming data into a useful data product to accommodate tasks and projects \
 I'm also a **Forex Trader** with over 2 years of real experience in the financial markets.\
 Currently deepening my knowledge in Data Science / Data Analysis. and also exploring possibilities in Automation on various fields.\
-You might also have seen me from the **osu!** and **tetr.io** communities! \
+You might also have seen me from the **osu!** and **tetr.io** communities! 
 
 
 ## 🛠️ - Data Science & Technical Skills
@@ -24,7 +24,7 @@ You might also have seen me from the **osu!** and **tetr.io** communities! \
 ## 👻 Miscellanious
 
 I'm currently learning Japanese as my hobby, my aim is to achieve N3 someday TwT \
-I love Ame from Needy Girl Overdose \
+I love Ame from Needy Girl Overdose 
 
 
 ## 📬 Contact Me
