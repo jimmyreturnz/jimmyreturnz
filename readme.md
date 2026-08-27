@@ -9,6 +9,7 @@ I'm also a **Forex Trader** with over 2 years of real experience in the financia
 Currently deepening my knowledge in Data Science / Data Analysis. and also exploring possibilities in Automation on various fields.\
 You might also have seen me from the **osu!** and **tetr.io** communities! 
 
+---
 
 ## 🛠️ - Data Science & Technical Skills
 
@@ -26,6 +27,7 @@ You might also have seen me from the **osu!** and **tetr.io** communities!
 I'm currently learning Japanese as my hobby, my aim is to achieve N3 someday TwT \
 I love Ame from Needy Girl Overdose 
 
+---
 
 ## 📬 Contact Me
 
