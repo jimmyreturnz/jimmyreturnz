@@ -7,11 +7,12 @@ Currently Interning at BMW Parts Manufacturing as a Data Scientist \
 I'm a passionate **Data Scientist** that loves transforming data into a useful data product to accommodate tasks and projects \
 I'm also a **Forex Trader** with over 2 years of real experience in the financial markets.\
 Currently deepening my knowledge in Data Science / Data Analysis. and also exploring possibilities in Automation on various fields.\
+Perhaps I might convert myself into AI Engineer somedays soon, just for the sake of 'domain expansion' 👀
 You might also have seen me from the **osu!** and **tetr.io** communities! 
 
 ---
 
-## 🛠️ - Data Science & Technical Skills
+## 🛠️ Data Science & Technical Skills
 
 - **Languages:** Python, R, SQL
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, sklearn
@@ -26,6 +27,13 @@ You might also have seen me from the **osu!** and **tetr.io** communities!
 
 I'm currently learning Japanese as my hobby, my aim is to achieve N3 someday TwT \
 I love Ame from Needy Girl Overdose 
+
+---
+
+## 🎯 Ongoing Projects
+- **TaikoFancyArranger:** started as a tool that arrange osu notes' x,y position into shapes, text, image, drawing, ended up making a whole Taiko Editor that supports various gimmicks. I might rename the application name soon lol
+- **itTAInanKOtodesuka**: my attempt to train a diffusion model for osu!taiko chart creation. Dataset is 10000+ ranked taiko maps from osu!. Currently in an experimentation phase before expanding the dataset to cover loved and unranked maps. This project intentionally avoids gimmick maps by default.
+
 
 ---
 
